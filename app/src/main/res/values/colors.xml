@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_700">#384747</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Neutral colors -->
+    <color name="neutral_teal_1">#04d8a2</color>
+    <color name="neutral_teal_2">#04d8d7</color>
+    <color name="neutral_teal_3">#04a4d8</color>
+    <color name="neutral_teal_4">#046fd8</color>
+    <color name="neutral_teal_5">#043ad8</color>
+    <color name="neutral_teal_6">#0405d8</color>
+
+    <!-- Neutral colors -->
+    <color name="neutral_purple_1">#3b88d3</color>
+    <color name="neutral_purple_2">#3b62d3</color>
+    <color name="neutral_purple_3">#3b3cd3</color>
+    <color name="neutral_purple_4">#603bd3</color>
+    <color name="neutral_purple_5">#863bd3</color>
+    <color name="neutral_purple_6">#ac3bd3</color>
+
+</resources>
